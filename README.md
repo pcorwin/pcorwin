@@ -18,6 +18,12 @@ Analysis of TV Shows and Movies from five different streaming platforms, with re
 
 ***
 
+### [Spam Detection Model](https://github.com/pcorwin/SpamDetection)
+
+Python Machine Learning model trained to detect spam emails.
+
+***
+
 ### [Thyroid Disease Data - Anomaly Detection](https://github.com/pcorwin/ThyroidDiseaseAnalysis)
 
 Jupyter Notebook of exploratory analysis in thyroid disease dataset.
