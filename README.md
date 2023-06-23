@@ -14,7 +14,7 @@ Analysis of TV Shows and Movies from five different streaming platforms, with re
 
 ***
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcorwin)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcorwin&layout=compact)
 
 ## Repositories
 
