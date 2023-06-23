@@ -18,6 +18,6 @@ Selected solutions to leetcode questions I've been working on. All solutions pos
 
 ***
 
-### Sudoku
+### [Sudoku](https://github.com/pcorwin/Sudoku/tree/master)
 
 Simple CLI Sudoku game implemented in Python.
