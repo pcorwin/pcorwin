@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 
 ## Repositories
-
+___
 ### [LeetCode Problems](https://github.com/pcorwin/LeetcodeSolutions-Python)
 
 Selected solutions to leetcode questions I've been working on. All solutions posted in Python3 (for now).
