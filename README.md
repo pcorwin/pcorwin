@@ -12,7 +12,9 @@ Analysis of TV Shows and Movies from five different streaming platforms, with re
 - 📫 How to reach me: LinkedIn (www.linkedin.com/in/phoebecorwin) or email (phoebe.corwin23@gmail.com)
 - 😄 Pronouns: She/Her
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcorwin)](https://github.com/anuraghazra/github-readme-stats)
+***
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcorwin)]
 
 ## Repositories
 
