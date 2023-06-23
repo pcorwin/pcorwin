@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 <!--
 ### [TV Show and Movie Recommendation Model](https://github.com/pcorwin/MovieTVShowAnalysis)
