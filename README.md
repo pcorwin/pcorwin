@@ -24,7 +24,7 @@ Simple CLI Sudoku game implemented in Python.
 
 ***
 
-### [Pitch Identifier](https://github.com/pcorwin/Pitch-Identifier)
+### [Note Identifier](https://github.com/pcorwin/Pitch-Identifier)
 
-Machine Learning model trained to identify the pitch of an instrument regardless of interfering noise.
+Machine Learning model trained to identify the note of an instrument when played regardless of interfering noise or data quality.
 
