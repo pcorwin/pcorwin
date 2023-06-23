@@ -47,6 +47,12 @@ Simple implementations of select data structures in C++.
 
 ***
 
+### [Branch Prediction Simulations](https://github.com/pcorwin/BranchPrediction)
+
+Simulators for operating system branch prediction algorithms. 
+
+***
+
 ### [Memory Cache Simulator](https://github.com/pcorwin/MemoryCacheSimulations)
 
 Simulates memory cache usage by UNIX-based operating system.
