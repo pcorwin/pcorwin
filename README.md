@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn (www.linkedin.com/in/phoebecorwin) or email (phoebe.corwin23@gmail.com)
 - 😄 Pronouns: She/Her
 
-### Projects
+## Repositories
 
