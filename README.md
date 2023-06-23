@@ -1,9 +1,11 @@
 ## About Me
 
 <!--
-**pcorwin/pcorwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [TV Show and Movie Recommendation Model](https://github.com/pcorwin/MovieTVShowAnalysis)
 
-Here are some ideas to get you started:
+Analysis of TV Shows and Movies from five different streaming platforms, with recommendations for what to watch next.
+
+***
 -->
 
 - 🔭 I’m currently working on some machine learning models in Python!
@@ -30,33 +32,15 @@ Jupyter Notebook of exploratory analysis in thyroid disease dataset.
 
 ***
 
-### [LeetCode Problems](https://github.com/pcorwin/LeetcodeSolutions-Python)
-
-Selected solutions to leetcode questions I've been working on. All solutions posted in Python3 (for now).
-
-***
-
 ### [Basic Encryption in Python](https://github.com/pcorwin/Encryption)
 
 Using Python packages to outline encryption fundamentals in software development.
 
 ***
 
-### [Python Web Development](https://github.com/pcorwin/Django-Basics)
-
-Polling website made alognisde Django tutorial as refresher for Python web development tools.
-
-***
-
 ### [Data Structures in C++](https://github.com/pcorwin/Data-Structures-CPP)
 
 Simple implementations of select data structures in C++.
-
-***
-
-### [Sudoku](https://github.com/pcorwin/Sudoku)
-
-CLI Sudoku game implemented in Python.
 
 ***
 
