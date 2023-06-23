@@ -9,7 +9,6 @@ Analysis of TV Shows and Movies from five different streaming platforms, with re
 -->
 
 - 🔭 I’m currently working on machine learning models in Python!
-- 📫 How to reach me: LinkedIn (www.linkedin.com/in/phoebecorwin) or email (phoebe.corwin23@gmail.com)
 - 😄 Pronouns: She/Her
 
 ***
