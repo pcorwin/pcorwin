@@ -12,6 +12,18 @@ Here are some ideas to get you started:
 
 ## Repositories
 
+### [TV Show and Movie Recommendation Model](https://github.com/pcorwin/ThyroidDiseaseAnalysis)
+
+Analysis of TV Shows and Movies from five different streaming platforms, with recommendations for what to watch next.
+
+***
+
+### [Thyroid Disease Data - Anomaly Detection](https://github.com/pcorwin/ThyroidDiseaseAnalysis)
+
+Jupyter Notebook of exploratory analysis in thyroid disease dataset.
+
+***
+
 ### [LeetCode Problems](https://github.com/pcorwin/LeetcodeSolutions-Python)
 
 Selected solutions to leetcode questions I've been working on. All solutions posted in Python3 (for now).
