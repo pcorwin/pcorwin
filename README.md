@@ -18,6 +18,13 @@ Selected solutions to leetcode questions I've been working on. All solutions pos
 
 ***
 
-### [Sudoku](https://github.com/pcorwin/Sudoku/tree/master)
+### [Sudoku](https://github.com/pcorwin/Sudoku)
 
 Simple CLI Sudoku game implemented in Python.
+
+***
+
+### [Pitch Identifier](https://github.com/pcorwin/Pitch-Identifier)
+
+Machine Learning model trained to identify the pitch of an instrument regardless of interfering noise.
+
