@@ -18,6 +18,12 @@ Selected solutions to leetcode questions I've been working on. All solutions pos
 
 ***
 
+### [Python Web Development](https://github.com/pcorwin/Django-Basics)
+
+Polling website made alognisde Django tutorial as refresher for Python web development tools.
+
+***
+
 ### [Data Structures in C++](https://github.com/pcorwin/Data-Structures-CPP)
 
 Simple implementations of select data structures in C++.
