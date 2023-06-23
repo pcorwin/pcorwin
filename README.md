@@ -30,6 +30,12 @@ Selected solutions to leetcode questions I've been working on. All solutions pos
 
 ***
 
+### [Basic Encryption in Python](https://github.com/pcorwin/Encryption)
+
+Using Python packages to outline encryption fundamentals in software development.
+
+***
+
 ### [Python Web Development](https://github.com/pcorwin/Django-Basics)
 
 Polling website made alognisde Django tutorial as refresher for Python web development tools.
