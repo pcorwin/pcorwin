@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ## Repositories
 
-### [TV Show and Movie Recommendation Model](https://github.com/pcorwin/ThyroidDiseaseAnalysis)
+### [TV Show and Movie Recommendation Model](https://github.com/pcorwin/MovieTVShowAnalysis)
 
 Analysis of TV Shows and Movies from five different streaming platforms, with recommendations for what to watch next.
 
