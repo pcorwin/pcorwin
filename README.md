@@ -18,9 +18,15 @@ Selected solutions to leetcode questions I've been working on. All solutions pos
 
 ***
 
+### [Data Structures in C++](https://github.com/pcorwin/Data-Structures-CPP)
+
+Simple implementations of select data structures in C++.
+
+***
+
 ### [Sudoku](https://github.com/pcorwin/Sudoku)
 
-Simple CLI Sudoku game implemented in Python.
+CLI Sudoku game implemented in Python.
 
 ***
 
