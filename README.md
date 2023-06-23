@@ -7,9 +7,7 @@ Analysis of TV Shows and Movies from five different streaming platforms, with re
 
 ***
 -->
-
-- 🔭 I’m currently working on machine learning models in Python!
-- 😄 Pronouns: She/Her
+I'm a software and data engineer using Python and machine learning toolkits to solve problems! When I'm not doing this, I enjoy making repositories for self-education in whatever topic I'm curious about. Most repositories are works-in-progress, as I frequently circle back to different ideas with improvements or new questions. Feel free to connect or reach out on LinkedIn if you have any questions 😄
 
 ***
 
