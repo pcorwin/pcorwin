@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 Selected solutions to leetcode questions I've been working on. All solutions posted in Python3 (for now).
 
-### 
+### Sudoku
+
+Simple CLI Sudoku game implemented in Python.
