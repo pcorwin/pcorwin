@@ -17,12 +17,6 @@ I'm a software and data engineer using Python and machine learning toolkits to s
 
 ## Repositories
 
-### [TV Show and Movie Recommendation Model](https://github.com/pcorwin/MovieTVShowAnalysis)
-
-Analysis of TV Shows and Movies from five different streaming platforms, with recommendations for what to watch next.
-
-***
-
 ### [Spam Detection Model](https://github.com/pcorwin/SpamDetection)
 
 Python Machine Learning model trained to detect spam emails.
