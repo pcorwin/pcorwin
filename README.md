@@ -13,7 +13,7 @@ I'm a software and data engineer using Python and machine learning toolkits to s
 
 ***
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcorwin&layout=compact)
+
 
 ## Repositories
 
