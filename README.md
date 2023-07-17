@@ -11,7 +11,7 @@ Analysis of TV Shows and Movies from five different streaming platforms, with re
 -->
 I'm a software and data engineer using Python and machine learning toolkits to solve problems! When I'm not doing this, I enjoy making repositories for self-education in whatever topic I'm curious about. Most repositories are works-in-progress, as I frequently circle back to different ideas with improvements or new questions. Feel free to reach out on LinkedIn if you have any questions 😄
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcorwin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcorwin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 
