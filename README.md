@@ -18,18 +18,6 @@ I'm a software and data engineer using Python and machine learning toolkits to s
 
 ## Repositories
 
-### [Spam Detection Model](https://github.com/pcorwin/SpamDetection)
-
-Python Machine Learning model trained to detect spam emails.
-
-***
-
-### [Thyroid Disease Data - Anomaly Detection](https://github.com/pcorwin/ThyroidDiseaseAnalysis)
-
-Jupyter Notebook of exploratory analysis in thyroid disease dataset.
-
-***
-
 ### [Basic Encryption in Python](https://github.com/pcorwin/Encryption)
 
 Using Python packages to outline encryption fundamentals in software development.
