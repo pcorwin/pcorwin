@@ -15,34 +15,3 @@ I'm a software and data engineer using Python and machine learning toolkits to s
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcorwin&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-## Repositories
-
-### [Basic Encryption in Python](https://github.com/pcorwin/Encryption)
-
-Using Python packages to outline encryption fundamentals in software development.
-
-***
-
-### [Data Structures in C++](https://github.com/pcorwin/Data-Structures-CPP)
-
-Simple implementations of select data structures in C++.
-
-***
-
-### [Branch Prediction Simulations](https://github.com/pcorwin/BranchPrediction)
-
-Simulators for operating system branch prediction algorithms. 
-
-***
-
-### [Memory Cache Simulator](https://github.com/pcorwin/MemoryCacheSimulations)
-
-Simulates memory cache usage by UNIX-based operating system.
-
-***
-
-### [Note Identifier](https://github.com/pcorwin/Pitch-Identifier)
-
-Machine Learning model trained to identify the note of an instrument when played regardless of interfering noise or data quality.
-
