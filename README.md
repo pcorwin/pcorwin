@@ -9,9 +9,9 @@ Analysis of TV Shows and Movies from five different streaming platforms, with re
 
 
 -->
-Software developer and data researcher using Python and machine learning toolkits to solve problems! Most repositories are works-in-progress, as I frequently circle back to different ideas with improvements or new questions. Feel free to reach out on LinkedIn if you have any questions 😄
+<!--Software developer and data researcher using Python and machine learning toolkits to solve problems! Most repositories are works-in-progress, as I frequently circle back to different ideas with improvements or new questions. Feel free to reach out on LinkedIn if you have any questions 😄
 
 ***
-
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcorwin&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
