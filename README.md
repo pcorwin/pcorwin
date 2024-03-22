@@ -9,7 +9,7 @@ Analysis of TV Shows and Movies from five different streaming platforms, with re
 
 
 -->
-I'm a software and data engineer using Python and machine learning toolkits to solve problems! Most repositories are works-in-progress, as I frequently circle back to different ideas with improvements or new questions. Feel free to reach out on LinkedIn if you have any questions 😄
+Software developer and data researcher using Python and machine learning toolkits to solve problems! Most repositories are works-in-progress, as I frequently circle back to different ideas with improvements or new questions. Feel free to reach out on LinkedIn if you have any questions 😄
 
 ***
 
